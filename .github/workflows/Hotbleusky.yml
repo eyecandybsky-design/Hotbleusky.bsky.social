@@ -1,8 +1,7 @@
 name: HotBleuskyBot
 
 on:
-  schedule:
-    - cron: "21 * * * *"
+  
   workflow_dispatch:
 
 permissions:
