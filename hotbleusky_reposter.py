@@ -42,7 +42,7 @@ FEEDS = {
     "feed 1": {"link": "", "note": "PROMO FEED"},
     "feed 2": {"link": "https://bsky.app/profile/did:plc:jaka644beit3x4vmmg6yysw7/feed/aaae6jfc5w2oi", "note": "redfox"},
     "feed 3": {"link": "", "note": ""},
-    "feed 4": {"link": "https://bsky.app/profile/did:plc:jaka644beit3x4vmmg6yysw7/lists/3mgldgnponw2m", "note": "Beautygroup"},
+    "feed 4": {"link": "", "note": ""},
     "feed 5": {"link": "", "note": ""},
     "feed 6": {"link": "", "note": ""},
     "feed 7": {"link": "", "note": ""},
@@ -61,9 +61,9 @@ ALLOW_REPLY_FEEDS = {"feed 2", "feed 3"}
 
 LIJSTEN = {
     "lijst 1": {"link": "https://bsky.app/profile/did:plc:5tbowzedh5d6wvhc5dncydbx/lists/3mi5g6vsunc26", "note": "PROMO RANDOM"},
-    "lijst 2": {"link": "", "note": ""},
-    "lijst 3": {"link": "", "note": ""},
-    "lijst 4": {"link": "", "note": ""},
+    "lijst 2": {"link": "https://bsky.app/profile/did:plc:mbmrdjswath6qc3sdpal5vqh/lists/3mfzoqcr7g62h", "note": "milf"},
+    "lijst 3": {"link": "https://bsky.app/profile/did:plc:jaka644beit3x4vmmg6yysw7/lists/3mgldgnponw2m", "note": "Beautygroup"},
+    "lijst 4": {"link": "https://bsky.app/profile/did:plc:mbmrdjswath6qc3sdpal5vqh/lists/3mmjli3y4nx2s", "note": "milfs of Bleusky"},
     "lijst 5": {"link": "https://bsky.app/profile/did:plc:zmyydkc2zzznc4smjufuerlx/lists/3mhs2vtwixg2q", "note": ""},
     "lijst 6": {"link": "", "note": ""},
     "lijst 7": {"link": "", "note": ""},
