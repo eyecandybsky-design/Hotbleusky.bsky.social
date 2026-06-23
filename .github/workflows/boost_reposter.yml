@@ -1,0 +1,34 @@
+name: Hotbleusky Boost Reposter
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: hotbleusky-boost
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    env:
+      BSKY_USERNAME: ${{ secrets.BSKY_USERNAME_HOTBLEUSKY }}
+      BSKY_PASSWORD: ${{ secrets.BSKY_PASSWORD_HOTBLEUSKY }}
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install atproto
+
+      - name: Run Hotbleusky Boost Bot
+        run: python boost_reposter.py
