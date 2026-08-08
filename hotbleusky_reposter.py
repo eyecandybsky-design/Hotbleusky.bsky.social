@@ -40,7 +40,7 @@ print("=== HOTBLEUSKY BOT STARTED ===", flush=True)
 
 FEEDS = {
     "feed 1": {"link": "", "note": "PROMO FEED"},
-    "feed 2": {"link": "https://bsky.app/profile/did:plc:jaka644beit3x4vmmg6yysw7/feed/aaae6jfc5w2oi", "note": "redfox"},
+    "feed 2": {"link": "", "note": "redfox"},
     "feed 3": {"link": "", "note": ""},
     "feed 4": {"link": "", "note": ""},
     "feed 5": {"link": "", "note": ""},
@@ -78,7 +78,7 @@ LIJSTEN = {
 # ============================================================
 
 HASHTAGS = [
-    "#bskypromo",
+    "",
     "",
     "",
 ]
