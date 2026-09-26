@@ -4,8 +4,8 @@ import time
 from datetime import datetime, timezone, timedelta
 from atproto import Client
 
-TARGET_ACCOUNT = "big-dominio.bsky.social"
-OWN_ACCOUNT = "womenworld.bsky.social"
+TARGET_ACCOUNT = "WomenWorld.bsky.social"
+OWN_ACCOUNT = "eyescandy.bsky.social"
 
 RANDOM_POSTS = 0
 NEWEST_POSTS = 3
