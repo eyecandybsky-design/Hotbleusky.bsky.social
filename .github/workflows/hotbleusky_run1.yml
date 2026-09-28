@@ -1,0 +1,47 @@
+name: HotBleusky Reposter RUN 1
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: hotbleusky-reposter
+  cancel-in-progress: false
+
+jobs:
+  repost:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install atproto
+
+      - name: Run HotBleusky RUN 1
+        env:
+          HB_BSKY_PASSWORD: ${{ secrets.HB_BSKY_PASSWORD }}
+          RUN_MODE: RUN_1
+          STATE_FILE: hotbleusky_state.json
+        run: python hotbleusky_reposter.py
+
+      - name: Persist HotBleusky state
+        if: always()
+        run: |
+          if [ -f hotbleusky_state.json ]; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add hotbleusky_state.json
+            if ! git diff --cached --quiet; then
+              git commit -m "Update HotBleusky reposter state"
+              git pull --rebase
+              git push
+            fi
+          fi
