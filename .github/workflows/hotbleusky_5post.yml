@@ -1,0 +1,36 @@
+name: HotBleusky 5 Post Booster
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: hotbleusky-5post-booster
+  cancel-in-progress: false
+
+jobs:
+  boost:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout HotBleusky
+        uses: actions/checkout@v4
+
+      - name: Checkout central Eyescandy booster
+        uses: actions/checkout@v4
+        with:
+          repository: lensstilte/Eyescandy.bsky.social
+          path: central-booster
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install atproto
+        run: pip install atproto
+
+      - name: Run central 5 post booster on HotBleusky
+        env:
+          BSKY_USERNAME: hotbleusky.bsky.social
+          BSKY_PASSWORD: ${{ secrets.HB_BSKY_PASSWORD }}
+        run: python central-booster/5post_booster.py
