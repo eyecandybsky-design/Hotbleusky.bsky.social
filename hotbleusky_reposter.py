@@ -38,7 +38,7 @@ PROMO_RANDOM_LIST = "https://bsky.app/profile/did:plc:5tbowzedh5d6wvhc5dncydbx/l
 HASHTAG_BLACKLIST_LIST = "https://bsky.app/profile/did:plc:5tbowzedh5d6wvhc5dncydbx/lists/3mwm5xxglhp2r"
 
 # Empty hashtag slots intentionally disabled.
-HASHTAGS = ["", "", ""]
+HASHTAGS = ["#bskypromo", "", ""]
 
 
 def now_utc():
