@@ -48,7 +48,7 @@ PROMO_RANDOM_LIST = "https://bsky.app/profile/did:plc:5tbowzedh5d6wvhc5dncydbx/l
 HASHTAG_BLACKLIST_LIST = "https://bsky.app/profile/did:plc:5tbowzedh5d6wvhc5dncydbx/lists/3mwm5xxglhp2r"
 
 # Empty slots are disabled.
-HASHTAGS = ["#bskypromo", "", ""]
+HASHTAGS = ["", "", ""]
 
 
 def now_utc():
