@@ -5707,6 +5707,7 @@
     "at://did:plc:b7w23fjgjtdvmc75tlxj7ygo/app.bsky.feed.post/3n2jo2e22eq2n": "2026-11-17T18:46:40.142563+00:00",
     "at://did:plc:b7w23fjgjtdvmc75tlxj7ygo/app.bsky.feed.post/3n2jqblmkjm25": "2026-11-17T19:17:06.868605+00:00",
     "at://did:plc:b7w23fjgjtdvmc75tlxj7ygo/app.bsky.feed.post/3n2juistnsb2w": "2026-11-17T20:46:45.509105+00:00",
+    "at://did:plc:b7w23fjgjtdvmc75tlxj7ygo/app.bsky.feed.post/3n2kvps62xa2e": "2026-11-18T06:16:45.647784+00:00",
     "at://did:plc:bbravcswnczjj3jumkb7jmhb/app.bsky.feed.post/3mwqptju3nl2m": "2026-09-30T16:16:53.538849+00:00",
     "at://did:plc:bbravcswnczjj3jumkb7jmhb/app.bsky.feed.post/3mwwxjmqrpl2p": "2026-10-03T03:46:31.882560+00:00",
     "at://did:plc:bbravcswnczjj3jumkb7jmhb/app.bsky.feed.post/3mxcxzqklde24": "2026-10-07T22:46:26.847857+00:00",
@@ -9789,6 +9790,7 @@
     "at://did:plc:ddhi5njd65ls7dwid37f7uwv/app.bsky.feed.post/3n2khl62uo62g": "2026-11-18T02:16:47.638482+00:00",
     "at://did:plc:ddhi5njd65ls7dwid37f7uwv/app.bsky.feed.post/3n2kjaukvto2j": "2026-11-18T02:46:36.086887+00:00",
     "at://did:plc:ddhi5njd65ls7dwid37f7uwv/app.bsky.feed.post/3n2ktckn7uu2j": "2026-11-18T05:46:54.198516+00:00",
+    "at://did:plc:ddhi5njd65ls7dwid37f7uwv/app.bsky.feed.post/3n2kuy5bied2t": "2026-11-18T06:16:40.526763+00:00",
     "at://did:plc:dfi3yjwjrdpcoyeav3lbvwgr/app.bsky.feed.post/3mwqu7uwry22q": "2026-09-30T17:46:29.607304+00:00",
     "at://did:plc:dfi3yjwjrdpcoyeav3lbvwgr/app.bsky.feed.post/3mwsr6ve2x22x": "2026-10-01T11:46:32.337351+00:00",
     "at://did:plc:dfi3yjwjrdpcoyeav3lbvwgr/app.bsky.feed.post/3mwvxcutfxk27": "2026-10-02T18:16:38.355073+00:00",
@@ -18575,6 +18577,7 @@
     "at://did:plc:trpfcjeopui5pnlvw7pbzauk/app.bsky.feed.post/3n2kl4umznn2j": "2026-11-18T03:16:41.524915+00:00",
     "at://did:plc:trpfcjeopui5pnlvw7pbzauk/app.bsky.feed.post/3n2kohucemp2w": "2026-11-18T04:16:41.688930+00:00",
     "at://did:plc:trpfcjeopui5pnlvw7pbzauk/app.bsky.feed.post/3n2krth3z3h2t": "2026-11-18T05:16:42.235161+00:00",
+    "at://did:plc:trpfcjeopui5pnlvw7pbzauk/app.bsky.feed.post/3n2kv6pqdcd2e": "2026-11-18T06:16:43.092940+00:00",
     "at://did:plc:u4i7kxgm2uwbkbcxpcrys5xz/app.bsky.feed.post/3mxsjycujtc2l": "2026-10-14T03:16:35.138456+00:00",
     "at://did:plc:u4i7kxgm2uwbkbcxpcrys5xz/app.bsky.feed.post/3mxsk3gs62c2l": "2026-10-14T03:16:37.716748+00:00",
     "at://did:plc:u4i7kxgm2uwbkbcxpcrys5xz/app.bsky.feed.post/3mxsvmjgsn22i": "2026-10-14T06:46:34.698407+00:00",
@@ -21274,7 +21277,8 @@
       "at://did:plc:ddhi5njd65ls7dwid37f7uwv/app.bsky.feed.post/3n2kauizezj22": "2026-11-18T02:17:14.511644+00:00",
       "at://did:plc:ddhi5njd65ls7dwid37f7uwv/app.bsky.feed.post/3n2kea52ywy2f": "2026-11-18T03:17:33.705793+00:00",
       "at://did:plc:ddhi5njd65ls7dwid37f7uwv/app.bsky.feed.post/3n2khl62uo62g": "2026-11-18T04:17:20.301671+00:00",
-      "at://did:plc:ddhi5njd65ls7dwid37f7uwv/app.bsky.feed.post/3n2kjaukvto2j": "2026-11-18T05:17:28.724879+00:00"
+      "at://did:plc:ddhi5njd65ls7dwid37f7uwv/app.bsky.feed.post/3n2kjaukvto2j": "2026-11-18T05:17:28.724879+00:00",
+      "at://did:plc:ddhi5njd65ls7dwid37f7uwv/app.bsky.feed.post/3n2ktckn7uu2j": "2026-11-18T06:17:01.268463+00:00"
     },
     "did:plc:sp54ouue6fp2dlvn2cux54ka": {
       "at://did:plc:sp54ouue6fp2dlvn2cux54ka/app.bsky.feed.post/3mxsy42wnfx2n": "2026-10-14T07:17:08.837811+00:00",
@@ -21677,7 +21681,8 @@
       "at://did:plc:trpfcjeopui5pnlvw7pbzauk/app.bsky.feed.post/3n2kegevwcv2d": "2026-11-18T02:17:12.246149+00:00",
       "at://did:plc:trpfcjeopui5pnlvw7pbzauk/app.bsky.feed.post/3n2khriajas24": "2026-11-18T03:17:31.284325+00:00",
       "at://did:plc:trpfcjeopui5pnlvw7pbzauk/app.bsky.feed.post/3n2kl4umznn2j": "2026-11-18T04:17:17.836443+00:00",
-      "at://did:plc:trpfcjeopui5pnlvw7pbzauk/app.bsky.feed.post/3n2kohucemp2w": "2026-11-18T05:17:26.285822+00:00"
+      "at://did:plc:trpfcjeopui5pnlvw7pbzauk/app.bsky.feed.post/3n2kohucemp2w": "2026-11-18T05:17:26.285822+00:00",
+      "at://did:plc:trpfcjeopui5pnlvw7pbzauk/app.bsky.feed.post/3n2krth3z3h2t": "2026-11-18T06:16:59.025805+00:00"
     }
   },
   "normal_reposts": {
@@ -27367,6 +27372,7 @@
     "at://did:plc:b7w23fjgjtdvmc75tlxj7ygo/app.bsky.feed.post/3n2jo2e22eq2n": "2026-11-17T18:46:40.083997+00:00",
     "at://did:plc:b7w23fjgjtdvmc75tlxj7ygo/app.bsky.feed.post/3n2jqblmkjm25": "2026-11-17T19:17:06.771683+00:00",
     "at://did:plc:b7w23fjgjtdvmc75tlxj7ygo/app.bsky.feed.post/3n2juistnsb2w": "2026-11-17T20:46:45.399839+00:00",
+    "at://did:plc:b7w23fjgjtdvmc75tlxj7ygo/app.bsky.feed.post/3n2kvps62xa2e": "2026-11-18T06:16:45.616289+00:00",
     "at://did:plc:bbravcswnczjj3jumkb7jmhb/app.bsky.feed.post/3mwqptju3nl2m": "2026-09-30T16:16:53.462242+00:00",
     "at://did:plc:bbravcswnczjj3jumkb7jmhb/app.bsky.feed.post/3mwwxjmqrpl2p": "2026-10-03T03:46:31.793516+00:00",
     "at://did:plc:bbravcswnczjj3jumkb7jmhb/app.bsky.feed.post/3mxcxzqklde24": "2026-10-07T22:46:26.810658+00:00",
@@ -31449,6 +31455,7 @@
     "at://did:plc:ddhi5njd65ls7dwid37f7uwv/app.bsky.feed.post/3n2khl62uo62g": "2026-11-18T02:16:47.609290+00:00",
     "at://did:plc:ddhi5njd65ls7dwid37f7uwv/app.bsky.feed.post/3n2kjaukvto2j": "2026-11-18T02:46:35.998837+00:00",
     "at://did:plc:ddhi5njd65ls7dwid37f7uwv/app.bsky.feed.post/3n2ktckn7uu2j": "2026-11-18T05:46:54.103295+00:00",
+    "at://did:plc:ddhi5njd65ls7dwid37f7uwv/app.bsky.feed.post/3n2kuy5bied2t": "2026-11-18T06:16:40.491009+00:00",
     "at://did:plc:dfi3yjwjrdpcoyeav3lbvwgr/app.bsky.feed.post/3mwqu7uwry22q": "2026-09-30T17:46:29.565388+00:00",
     "at://did:plc:dfi3yjwjrdpcoyeav3lbvwgr/app.bsky.feed.post/3mwsr6ve2x22x": "2026-10-01T11:46:32.246188+00:00",
     "at://did:plc:dfi3yjwjrdpcoyeav3lbvwgr/app.bsky.feed.post/3mwvxcutfxk27": "2026-10-02T18:16:38.298281+00:00",
@@ -40209,6 +40216,7 @@
     "at://did:plc:trpfcjeopui5pnlvw7pbzauk/app.bsky.feed.post/3n2kl4umznn2j": "2026-11-18T03:16:41.449338+00:00",
     "at://did:plc:trpfcjeopui5pnlvw7pbzauk/app.bsky.feed.post/3n2kohucemp2w": "2026-11-18T04:16:41.611920+00:00",
     "at://did:plc:trpfcjeopui5pnlvw7pbzauk/app.bsky.feed.post/3n2krth3z3h2t": "2026-11-18T05:16:42.159261+00:00",
+    "at://did:plc:trpfcjeopui5pnlvw7pbzauk/app.bsky.feed.post/3n2kv6pqdcd2e": "2026-11-18T06:16:43.066646+00:00",
     "at://did:plc:u4i7kxgm2uwbkbcxpcrys5xz/app.bsky.feed.post/3mxsjycujtc2l": "2026-10-14T03:16:35.094077+00:00",
     "at://did:plc:u4i7kxgm2uwbkbcxpcrys5xz/app.bsky.feed.post/3mxsk3gs62c2l": "2026-10-14T03:16:37.676124+00:00",
     "at://did:plc:u4i7kxgm2uwbkbcxpcrys5xz/app.bsky.feed.post/3mxsvmjgsn22i": "2026-10-14T06:46:34.620649+00:00",
@@ -42166,7 +42174,7 @@
       "at://did:plc:4jkkgyxvromihiyow5r2mrdm/app.bsky.feed.post/3mykq7m5a622w": "2026-11-06T01:17:40.095287+00:00",
       "at://did:plc:4jkkgyxvromihiyow5r2mrdm/app.bsky.feed.post/3mym6ssevpc22": "2026-11-05T22:17:30.465617+00:00",
       "at://did:plc:4jkkgyxvromihiyow5r2mrdm/app.bsky.feed.post/3myn3blg5ac2b": "2026-11-17T15:18:11.890652+00:00",
-      "at://did:plc:4jkkgyxvromihiyow5r2mrdm/app.bsky.feed.post/3myowphzwoc2t": "2026-11-17T05:17:56.692299+00:00",
+      "at://did:plc:4jkkgyxvromihiyow5r2mrdm/app.bsky.feed.post/3myowphzwoc2t": "2026-11-18T06:17:15.692938+00:00",
       "at://did:plc:4jkkgyxvromihiyow5r2mrdm/app.bsky.feed.post/3mypl43nvq22y": "2026-11-17T11:17:51.774264+00:00",
       "at://did:plc:4jkkgyxvromihiyow5r2mrdm/app.bsky.feed.post/3myrafhhgac2f": "2026-11-05T21:18:13.368775+00:00",
       "at://did:plc:4jkkgyxvromihiyow5r2mrdm/app.bsky.feed.post/3mysmoijsok22": "2026-11-06T04:17:38.461921+00:00",
@@ -42810,6 +42818,7 @@
       "at://did:plc:ddhi5njd65ls7dwid37f7uwv/app.bsky.feed.post/3n2jv4z4hsi2u": "2026-11-17T23:17:58.234453+00:00",
       "at://did:plc:ddhi5njd65ls7dwid37f7uwv/app.bsky.feed.post/3n2k5jguj7w2j": "2026-11-18T03:17:49.559676+00:00",
       "at://did:plc:ddhi5njd65ls7dwid37f7uwv/app.bsky.feed.post/3n2k773kojl2f": "2026-11-18T04:17:34.028197+00:00",
+      "at://did:plc:ddhi5njd65ls7dwid37f7uwv/app.bsky.feed.post/3n2kauizezj22": "2026-11-18T06:17:13.370469+00:00",
       "at://did:plc:ddhi5njd65ls7dwid37f7uwv/app.bsky.feed.post/3n2kea52ywy2f": "2026-11-18T01:17:56.732169+00:00",
       "at://did:plc:ddhi5njd65ls7dwid37f7uwv/app.bsky.feed.post/3n2khl62uo62g": "2026-11-18T02:17:26.560453+00:00",
       "at://did:plc:ddhi5njd65ls7dwid37f7uwv/app.bsky.feed.post/3n2kjaukvto2j": "2026-11-18T05:17:44.494844+00:00"
@@ -43059,6 +43068,7 @@
       "at://did:plc:nbnbudek6nh5f5yquux5hfsk/app.bsky.feed.post/3n2jp7gp2l22t": "2026-11-17T22:17:19.228918+00:00",
       "at://did:plc:nbnbudek6nh5f5yquux5hfsk/app.bsky.feed.post/3n2jpazlxl22t": "2026-11-17T20:17:40.492889+00:00",
       "at://did:plc:nbnbudek6nh5f5yquux5hfsk/app.bsky.feed.post/3n2kabqatu22l": "2026-11-18T00:17:17.019518+00:00",
+      "at://did:plc:nbnbudek6nh5f5yquux5hfsk/app.bsky.feed.post/3n2kaeqrsjs2v": "2026-11-18T06:17:06.131878+00:00",
       "at://did:plc:nbnbudek6nh5f5yquux5hfsk/app.bsky.feed.post/3n2kanwip6k26": "2026-11-18T05:17:36.449963+00:00",
       "at://did:plc:nbnbudek6nh5f5yquux5hfsk/app.bsky.feed.post/3n2kbd6ynb22l": "2026-11-18T04:17:25.896819+00:00",
       "at://did:plc:nbnbudek6nh5f5yquux5hfsk/app.bsky.feed.post/3n2kbiro3bc2l": "2026-11-18T01:17:46.572925+00:00",
@@ -43601,7 +43611,7 @@
       "at://did:plc:tgsvgvbt7adhii6vnppg2u3o/app.bsky.feed.post/3mzcpyzfapk2y": "2026-11-17T12:17:59.223808+00:00",
       "at://did:plc:tgsvgvbt7adhii6vnppg2u3o/app.bsky.feed.post/3mzlbzuzkrs2q": "2026-11-17T08:17:38.991833+00:00",
       "at://did:plc:tgsvgvbt7adhii6vnppg2u3o/app.bsky.feed.post/3mzmxztu5z22p": "2026-11-17T23:17:55.763916+00:00",
-      "at://did:plc:tgsvgvbt7adhii6vnppg2u3o/app.bsky.feed.post/3mzt5z2xyd22k": "2026-11-17T05:17:51.216677+00:00",
+      "at://did:plc:tgsvgvbt7adhii6vnppg2u3o/app.bsky.feed.post/3mzt5z2xyd22k": "2026-11-18T06:17:10.896306+00:00",
       "at://did:plc:tgsvgvbt7adhii6vnppg2u3o/app.bsky.feed.post/3mzxqeiv2hc2k": "2026-11-18T00:17:24.638191+00:00",
       "at://did:plc:tgsvgvbt7adhii6vnppg2u3o/app.bsky.feed.post/3n2ih5navak2s": "2026-11-17T07:17:25.833178+00:00"
     },
@@ -43788,6 +43798,7 @@
       "at://did:plc:ujis4z76ku3q7jpmqp5utldl/app.bsky.feed.post/3n2jqpvpmr22y": "2026-11-18T02:17:21.748519+00:00",
       "at://did:plc:ujis4z76ku3q7jpmqp5utldl/app.bsky.feed.post/3n2jqyjscps2y": "2026-11-17T23:17:51.046043+00:00",
       "at://did:plc:ujis4z76ku3q7jpmqp5utldl/app.bsky.feed.post/3n2jr3sobds2y": "2026-11-18T03:17:44.134599+00:00",
+      "at://did:plc:ujis4z76ku3q7jpmqp5utldl/app.bsky.feed.post/3n2jrcsazik2y": "2026-11-18T06:17:08.437723+00:00",
       "at://did:plc:ujis4z76ku3q7jpmqp5utldl/app.bsky.feed.post/3n2jtgmna722y": "2026-11-17T21:18:01.674791+00:00",
       "at://did:plc:ujis4z76ku3q7jpmqp5utldl/app.bsky.feed.post/3n2jttp4frk2y": "2026-11-17T22:17:21.680276+00:00",
       "at://did:plc:ujis4z76ku3q7jpmqp5utldl/app.bsky.feed.post/3n2jwwnw6ek2y": "2026-11-18T00:17:19.556773+00:00"
@@ -43824,7 +43835,8 @@
       "at://did:plc:v5k5w24wunrrpn3guyzkiaf5/app.bsky.feed.post/3n2jhjxhxis2p": "2026-11-17T17:18:04.348532+00:00",
       "at://did:plc:v5k5w24wunrrpn3guyzkiaf5/app.bsky.feed.post/3n2jo4t5mls25": "2026-11-17T20:17:38.056191+00:00",
       "at://did:plc:v5k5w24wunrrpn3guyzkiaf5/app.bsky.feed.post/3n2jolkgw5s25": "2026-11-17T19:18:02.878171+00:00",
-      "at://did:plc:v5k5w24wunrrpn3guyzkiaf5/app.bsky.feed.post/3n2ks7m4dnk2n": "2026-11-18T05:17:34.043825+00:00"
+      "at://did:plc:v5k5w24wunrrpn3guyzkiaf5/app.bsky.feed.post/3n2ks7m4dnk2n": "2026-11-18T05:17:34.043825+00:00",
+      "at://did:plc:v5k5w24wunrrpn3guyzkiaf5/app.bsky.feed.post/3n2kst5tsms2n": "2026-11-18T06:17:03.911706+00:00"
     },
     "did:plc:vba6k5oodtp5bicvu62s4pjr": {
       "at://did:plc:vba6k5oodtp5bicvu62s4pjr/app.bsky.feed.post/3mwqcaltusc2j": "2026-10-09T20:17:26.215940+00:00",
@@ -44483,6 +44495,7 @@
     "at://did:plc:3jwixjkk5srluzmdh4kaio2b/app.bsky.feed.post/3n2jkelasls2a": "2026-11-18T01:46:54.560572+00:00",
     "at://did:plc:3jwixjkk5srluzmdh4kaio2b/app.bsky.feed.post/3n2joamoxlc2h": "2026-11-18T02:46:51.308346+00:00",
     "at://did:plc:3jwixjkk5srluzmdh4kaio2b/app.bsky.feed.post/3n2jsy27fak2z": "2026-11-18T04:17:12.987716+00:00",
+    "at://did:plc:3jwixjkk5srluzmdh4kaio2b/app.bsky.feed.post/3n2k2k6c7ac2c": "2026-11-18T06:16:54.592731+00:00",
     "at://did:plc:3kmrlmaubi4w7n6545bhthiq/app.bsky.feed.post/3mymws3nogs2a": "2026-10-24T23:17:18.989493+00:00",
     "at://did:plc:3kmrlmaubi4w7n6545bhthiq/app.bsky.feed.post/3mymwtgagtk2a": "2026-10-24T23:17:16.846947+00:00",
     "at://did:plc:3kmrlmaubi4w7n6545bhthiq/app.bsky.feed.post/3mymwubpzd22a": "2026-10-24T23:17:14.706470+00:00",
@@ -45650,6 +45663,7 @@
     "at://did:plc:4x5cospsdgrainjqddncu6wv/app.bsky.feed.post/3n2jyix3hjk2g": "2026-11-18T05:47:22.702447+00:00",
     "at://did:plc:4x5cospsdgrainjqddncu6wv/app.bsky.feed.post/3n2jyklagqs2g": "2026-11-18T05:47:20.371669+00:00",
     "at://did:plc:4x5cospsdgrainjqddncu6wv/app.bsky.feed.post/3n2jyqqevts2g": "2026-11-18T05:47:18.052736+00:00",
+    "at://did:plc:4x5cospsdgrainjqddncu6wv/app.bsky.feed.post/3n2jzytvvrs2g": "2026-11-18T06:16:56.719122+00:00",
     "at://did:plc:54skewwtzorhxaqdqd4ttv2a/app.bsky.feed.post/3myucklglns2g": "2026-10-27T21:17:31.765619+00:00",
     "at://did:plc:54skewwtzorhxaqdqd4ttv2a/app.bsky.feed.post/3myuyjed7lk24": "2026-10-28T04:16:57.557817+00:00",
     "at://did:plc:54skewwtzorhxaqdqd4ttv2a/app.bsky.feed.post/3mywerjpogc23": "2026-10-28T17:17:53.829655+00:00",
@@ -52754,6 +52768,7 @@
     "at://did:plc:trpfcjeopui5pnlvw7pbzauk/app.bsky.feed.post/3n2jqcg2gf626": "2026-11-18T03:46:50.123717+00:00",
     "at://did:plc:trpfcjeopui5pnlvw7pbzauk/app.bsky.feed.post/3n2jtnmd2qb2h": "2026-11-18T04:46:58.263236+00:00",
     "at://did:plc:trpfcjeopui5pnlvw7pbzauk/app.bsky.feed.post/3n2jwyugkr42e": "2026-11-18T05:47:04.069317+00:00",
+    "at://did:plc:trpfcjeopui5pnlvw7pbzauk/app.bsky.feed.post/3n2k2e646uh25": "2026-11-18T06:16:52.467317+00:00",
     "at://did:plc:uaje2zn33i533r2p66fgohn7/app.bsky.feed.post/3mwnsyhm2ns2m": "2026-09-29T20:47:09.201758+00:00",
     "at://did:plc:uaje2zn33i533r2p66fgohn7/app.bsky.feed.post/3mwol4s52ds2f": "2026-09-30T04:17:07.705403+00:00",
     "at://did:plc:uaje2zn33i533r2p66fgohn7/app.bsky.feed.post/3mx75yf2g222a": "2026-10-06T18:17:06.614937+00:00",
@@ -53294,6 +53309,7 @@
     "at://did:plc:v27mvc6d37jqorp56tzq4qt3/app.bsky.feed.post/3n2jt32dvic2y": "2026-11-18T04:16:59.349669+00:00",
     "at://did:plc:v27mvc6d37jqorp56tzq4qt3/app.bsky.feed.post/3n2jt452hl22y": "2026-11-18T04:16:57.081089+00:00",
     "at://did:plc:v27mvc6d37jqorp56tzq4qt3/app.bsky.feed.post/3n2jysq3qz22v": "2026-11-18T05:47:01.739996+00:00",
+    "at://did:plc:v27mvc6d37jqorp56tzq4qt3/app.bsky.feed.post/3n2jzt3p2222v": "2026-11-18T06:16:50.318659+00:00",
     "at://did:plc:v5k5w24wunrrpn3guyzkiaf5/app.bsky.feed.post/3mzsrlrv66c2p": "2026-11-15T19:17:38.217113+00:00",
     "at://did:plc:v5k5w24wunrrpn3guyzkiaf5/app.bsky.feed.post/3n27fqeksks2m": "2026-11-15T19:17:35.917922+00:00",
     "at://did:plc:v5k5w24wunrrpn3guyzkiaf5/app.bsky.feed.post/3n2eg3y7tuk2k": "2026-11-16T03:17:22.862452+00:00",
